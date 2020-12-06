@@ -1,0 +1,39 @@
+{
+    "db":{
+        "person":{
+            "team1":{
+                "name":"Bruce Wayne",
+                "position":"CEO"
+            },
+            "team2":{
+                "name":"Rachel Moz",
+                "position":"Manager"
+            }
+
+
+        },"sectors":{
+            "expedition":{
+                "Gotham":"CD-01"
+            },
+            "buy":{
+                "Gotham":"Build-01"
+            },
+            "seller":{
+                "Gotham":"Build-01"
+            }
+
+        },"distribution":{
+            "vehicles":{
+                "cd1":{
+                    "car":"cyber-truck"
+                }
+            }
+
+        },"products":{
+            "cd1":{
+                "type":"Tecnologies supply",
+                "qntt":"500-tons"
+            }
+        }
+    }
+}
